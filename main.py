@@ -1,16 +1,5 @@
-import os
-import sys
-
-
 def main():
-    unused = 5
-    x = None
-    if x == None:
-        print("hi")
-    try:
-        pass
-    except:
-        pass
+    print("Hello from dsc190-pa5!")
 
 
 if __name__ == "__main__":
